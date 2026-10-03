@@ -1,0 +1,7 @@
+{
+  "name": "env-guard",
+  "version": "0.1.0",
+  "description": "Claude Code mod: blocks Claude from reading .env secret files and counts blocked attempts in the status line",
+  "author": { "name": "ABDUAZIZX" },
+  "license": "MIT"
+}

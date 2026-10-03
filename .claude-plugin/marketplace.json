@@ -1,0 +1,7 @@
+{
+  "name": "env-guard",
+  "owner": { "name": "ABDUAZIZX" },
+  "plugins": [
+    { "name": "env-guard", "source": "./", "description": "Blocks Claude from reading .env secret files" }
+  ]
+}
