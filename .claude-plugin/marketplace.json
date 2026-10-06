@@ -1,7 +1,16 @@
 {
   "name": "env-guard",
-  "owner": { "name": "ABDUAZIZX" },
+  "owner": {
+    "name": "ABDUAZIZX"
+  },
+  "metadata": {
+    "description": "Claude Code mod that blocks Claude from reading .env secret files"
+  },
   "plugins": [
-    { "name": "env-guard", "source": "./", "description": "Blocks Claude from reading .env secret files" }
+    {
+      "name": "env-guard",
+      "source": "./",
+      "description": "Blocks Claude from reading .env secret files"
+    }
   ]
 }
